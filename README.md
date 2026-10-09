@@ -24,6 +24,17 @@ When models attempt to combine information from different modalities, they may g
 This project investigates approaches for improving **multimodal grounding** to ensure generated answers remain consistent with both textual and visual context.
 
 ---
+Our main research question will be:
+
+How effectively can independent, evidence-grounded, claim-level verification reduce factual hallucinations in multimodal retrieval-augmented question answering?
+
+We'll investigate three things:
+
+Does retrieving evidence improve answers compared with a model answering directly?
+
+Does an independent verifier catch unsupported or contradictory claims?
+
+Does revising an answer using verification results reduce hallucinations without making the system abstain too often?
 
 ## Project Goals
 
