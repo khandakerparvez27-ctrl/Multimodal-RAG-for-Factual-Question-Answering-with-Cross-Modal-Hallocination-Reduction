@@ -1,4 +1,4 @@
-Cross-Model Evidence Verification for Hallucination Reduction in Multimodal Retrieval-Augmented Question Answering.
+## Cross-Model Evidence Verification for Hallucination Reduction in Multimodal Retrieval-Augmented Question Answering.
 
 ## Introduction
 
