@@ -1,4 +1,4 @@
-# Multimodal RAG for Factual Question Answering with Cross-Modal Hallucination Reduction
+Cross-Model Evidence Verification for Hallucination Reduction in Multimodal Retrieval-Augmented Question Answering.
 
 ## Introduction
 
